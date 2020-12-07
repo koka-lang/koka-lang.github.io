@@ -1,3 +1,3 @@
 # koka-lang.github.io
 
-Koka language main web page entry
+<https://koka-lang.github.io> main web page entry
